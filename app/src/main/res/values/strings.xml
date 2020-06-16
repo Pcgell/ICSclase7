@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">clase4</string>
+    <string name="title_activity_detalle">Detalle</string>
+    <string name="porcentaje">%</string>
+</resources>
